@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I currently work as a Senior Lecturer at the Department of Computer Science, University of Jos - Nigeria. I hold a PhD from the University of Warwick in Coventry, United Kingdom, an MSc from the African University of Science and Technology in Abuja, and a bachelor's degree in Computer Science from the University of Jos.
+I currently work as a Senior Lecturer at the Department of Computer Science, University of Jos - Nigeria. I hold a PhD from the University of Warwick in Coventry, United Kingdom, an MSc from the African University of Science and Technology in Abuja, and a bachelor's degree in Computer Science from the University of Jos.</br>
 I am an active member of esteemed professional organizations. Since 2013, I have been a proud IEEE member, contributing to and staying abreast of cutting-edge advancements in technology. A recent addition to my affiliations is the ACM, where I've been a member since 2020, further connecting with the global community of computing professionals. Additionally, since 2017, I have been an esteemed member of the Nigerian Computer Society (NCS), contributing to the local computer science landscape.
 
 ## Research Interests
