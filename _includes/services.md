@@ -1,14 +1,5 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Some Conferences attended</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE Trustcom/BigDataSE/ISPA, Helsinki, 20-22 Aug 2015</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE International Parallel and Distributed Processing Symposium, IPDPS 2015, Hyderabad, India</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>IEEE PRDC 2017, Christchurch, New Zealand.</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>Economics and Computation, EC’20, July 14-16, 2020 (Virtual)</autocolor></a></li>
-</ul>
-
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
