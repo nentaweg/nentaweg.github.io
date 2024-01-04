@@ -17,10 +17,10 @@ I am an active member of esteemed professional organizations. Since 2013, I have
 - My interests also extend to the intersection of economics and computation. I am particularly intrigued by the potential applications of Machine Learning and algorithms in addressing economic issues and shaping economic policies. This involves a nuanced exploration of how these technological tools can be harnessed to contribute meaningfully to economic analyses and decision-making processes.
 ## Recent News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2020]** I presented our poster at the Economics and Computation, EC’20, July 14-16, 2020 (Virtual)
+- **[Sept. 2017]** I presented a paper at the IEEE PRDC 2017, Christchurch, New Zealand.
+- **[Aug 2015]** I presented a paper at the IEEE Trustcom/BigDataSE/ISPA, Helsinki. 
+- **[Feb. 2015]** I presented a paper at the IEEE International Parallel and Distributed Processing Symposium, IPDPS 2015, Hyderabad, India
 
 {% include_relative _includes/publications.md %}
 
