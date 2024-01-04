@@ -28,13 +28,9 @@ skills that are relevant in the industry. The hub has had a success rate with ma
 
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor> Student Adviser - University of Jos, Nigeria (2016 - Date)</autocolor></a></li>
- <p>Provide students with mentoring support on course choices and study habits for a successful completion.</p>
 </ul>
 
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor> Postgraduate Coordinator - University of Jos, Nigeria (2019 - Date)</autocolor></a></li>
- <p>- Provide a high standard of academic-related administrative support to the department and postgraduate students.</p>
- <p>- Facilitate the preparation and updating of Postgraduate programme materials.</p>
- <p>- Responsible for maintaining module descriptions and postgraduate student records in line with university policy.</p>
-  <p>- Coordinating arrangements with external examiners.</p>
+
 </ul>
