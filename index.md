@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I currently work as a Senior Lecturer at the Department of Computer Science, University of Jos - Nigeria.
+I currently work as a Senior Lecturer at the Department of Computer Science, University of Jos - Nigeria. I hold a PhD from the University of Warwick in Coventry, United Kingdom, an MSc from the African University of Science and Technology in Abuja, and a bachelor's degree in Computer Science from the University of Jos.
 
 ## Research Interests
 
