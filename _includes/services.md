@@ -28,9 +28,5 @@ skills that are relevant in the industry. The hub has had a success rate with ma
 
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor> Student Adviser - University of Jos, Nigeria (2016 - Date)</autocolor></a></li>
-</ul>
-
-<ul style="margin:0 0 20px;">
   <li><a href=""><autocolor> Postgraduate Coordinator - University of Jos, Nigeria (2019 - Date)</autocolor></a></li>
-
 </ul>
