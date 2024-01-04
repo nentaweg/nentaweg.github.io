@@ -15,7 +15,7 @@ I am an active member of esteemed professional organizations. Since 2013, I have
 - Looking ahead, my focus is on understanding how medical data quality can significantly impact the performance of Machine Learning and Deep Learning algorithms. While these algorithms have demonstrated exceptional performance across diverse domains, the pivotal role of high-quality data cannot be overstated. Often, such data is either unavailable, in suboptimal condition for use, or the data collection processes lack assurances of quality. Therefore, I aim to explore data-centric approaches to enhance the effectiveness of Machine Learning models.
 
 - My interests also extend to the intersection of economics and computation. I am particularly intrigued by the potential applications of Machine Learning and algorithms in addressing economic issues and shaping economic policies. This involves a nuanced exploration of how these technological tools can be harnessed to contribute meaningfully to economic analyses and decision-making processes.
-## News
+## Recent News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
